@@ -14,5 +14,4 @@ Imagens do projeto:
 
 •Fim de jogo com alerta anunciando um vencedor:
 
-![image](https://user-images.githubusercontent.com/69488943/172899981-4824d2ff-7d6d-424d-a52a-31f4a85b1c44.png)
 ![image](https://user-images.githubusercontent.com/69488943/172900048-7fdf9e13-9225-460e-858b-cd90acd1a915.png)
